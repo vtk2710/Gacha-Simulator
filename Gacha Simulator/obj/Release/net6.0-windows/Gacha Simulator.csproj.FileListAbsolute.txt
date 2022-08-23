@@ -1,0 +1,17 @@
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\bin\Release\net6.0-windows\Gacha Simulator.exe
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\bin\Release\net6.0-windows\Gacha Simulator.deps.json
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\bin\Release\net6.0-windows\Gacha Simulator.runtimeconfig.json
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\bin\Release\net6.0-windows\Gacha Simulator.dll
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\bin\Release\net6.0-windows\ref\Gacha Simulator.dll
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\bin\Release\net6.0-windows\Gacha Simulator.pdb
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\obj\Release\net6.0-windows\Gacha Simulator.csproj.AssemblyReference.cache
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\obj\Release\net6.0-windows\Gacha_Simulator.Gacha.resources
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\obj\Release\net6.0-windows\Gacha Simulator.csproj.GenerateResource.cache
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\obj\Release\net6.0-windows\Gacha Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\obj\Release\net6.0-windows\Gacha Simulator.AssemblyInfoInputs.cache
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\obj\Release\net6.0-windows\Gacha Simulator.AssemblyInfo.cs
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\obj\Release\net6.0-windows\Gacha Simulator.csproj.CoreCompileInputs.cache
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\obj\Release\net6.0-windows\Gacha Simulator.dll
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\obj\Release\net6.0-windows\ref\Gacha Simulator.dll
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\obj\Release\net6.0-windows\Gacha Simulator.pdb
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\obj\Release\net6.0-windows\Gacha Simulator.genruntimeconfig.cache

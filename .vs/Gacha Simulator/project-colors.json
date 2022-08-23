@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e83d443f-9907-479c-a6a6-892870cbfb51": {
+      "ProjectGuid": "e83d443f-9907-479c-a6a6-892870cbfb51",
+      "DisplayName": "Gacha Simulator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,5 @@
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\bin\publish\Gacha Simulator.exe
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\bin\publish\Gacha Simulator.dll
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\bin\publish\Gacha Simulator.deps.json
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\bin\publish\Gacha Simulator.runtimeconfig.json
+C:\Users\vtk47\Desktop\Gacha Simulator\Gacha Simulator\bin\publish\Gacha Simulator.pdb
